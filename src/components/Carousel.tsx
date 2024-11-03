@@ -1,10 +1,9 @@
-// src/components/Carousel.tsx
 import React, { useEffect, useState } from 'react';
 
 const images = [
-  "/eternaprimavera/assets/corazon-dia.jpeg",
-  "/eternaprimavera/assets/exterior1.jpeg",
-  "/eternaprimavera/assets/interior.jpeg",
+  "./assets/corazon-dia.jpeg",
+  "../assets/exterior1.jpeg",
+  "assets/interior.jpeg",
 ];
 
 const Carousel: React.FC = () => {
@@ -18,7 +17,7 @@ const Carousel: React.FC = () => {
   }, []);
 
   return (
-    <div className="w-full h-90 md:h-[500px] overflow-hidden relative">
+    <div className="w-full h-72 md:h-[500px] overflow-hidden relative"> {/* Ajuste de altura */}
       {images.map((image, index) => (
         <img
           key={index}
