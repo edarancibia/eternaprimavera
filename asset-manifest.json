@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eternaprimavera/static/css/main.a77a642a.css",
-    "main.js": "/eternaprimavera/static/js/main.750f0efa.js",
+    "main.js": "/eternaprimavera/static/js/main.be051799.js",
     "static/js/453.a5059bd1.chunk.js": "/eternaprimavera/static/js/453.a5059bd1.chunk.js",
     "index.html": "/eternaprimavera/index.html",
     "main.a77a642a.css.map": "/eternaprimavera/static/css/main.a77a642a.css.map",
-    "main.750f0efa.js.map": "/eternaprimavera/static/js/main.750f0efa.js.map",
+    "main.be051799.js.map": "/eternaprimavera/static/js/main.be051799.js.map",
     "453.a5059bd1.chunk.js.map": "/eternaprimavera/static/js/453.a5059bd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a77a642a.css",
-    "static/js/main.750f0efa.js"
+    "static/js/main.be051799.js"
   ]
 }
