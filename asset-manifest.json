@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eternaprimavera/static/css/main.a77a642a.css",
-    "main.js": "/eternaprimavera/static/js/main.be051799.js",
-    "static/js/453.a5059bd1.chunk.js": "/eternaprimavera/static/js/453.a5059bd1.chunk.js",
-    "index.html": "/eternaprimavera/index.html",
-    "main.a77a642a.css.map": "/eternaprimavera/static/css/main.a77a642a.css.map",
-    "main.be051799.js.map": "/eternaprimavera/static/js/main.be051799.js.map",
-    "453.a5059bd1.chunk.js.map": "/eternaprimavera/static/js/453.a5059bd1.chunk.js.map"
+    "main.css": "./static/css/main.a77a642a.css",
+    "main.js": "./static/js/main.8bff7828.js",
+    "static/js/453.a5059bd1.chunk.js": "./static/js/453.a5059bd1.chunk.js",
+    "index.html": "./index.html",
+    "main.a77a642a.css.map": "./static/css/main.a77a642a.css.map",
+    "main.8bff7828.js.map": "./static/js/main.8bff7828.js.map",
+    "453.a5059bd1.chunk.js.map": "./static/js/453.a5059bd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a77a642a.css",
-    "static/js/main.be051799.js"
+    "static/js/main.8bff7828.js"
   ]
 }
