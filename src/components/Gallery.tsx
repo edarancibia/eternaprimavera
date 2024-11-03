@@ -1,13 +1,13 @@
 import React from "react";
 
 const galleryImages = [
-  "/assets/corazon-noche.jpg",
-  "/assets/exterior1.jpeg",
-  "/assets/corazon-dia.jpeg",
-  "/assets/interior.jpeg",
-  "/assets/corazon-dia2.jpeg",
-  "/assets/parque1.jpeg",
-  "/assets/banios.jpg",
+  "./eternaprimavera/assets/corazon-noche.jpg",
+  "./eternaprimavera/assets/exterior1.jpeg",
+  "./eternaprimavera/assets/corazon-dia.jpeg",
+  "./eternaprimavera/assets/interior.jpeg",
+  "./eternaprimavera/assets/corazon-dia2.jpeg",
+  "./eternaprimavera/assets/parque1.jpeg",
+  "./eternaprimavera/assets/banios.jpg",
 ];
 
 const Gallery: React.FC = () => {
