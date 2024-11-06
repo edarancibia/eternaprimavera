@@ -2,8 +2,8 @@ import React, { useEffect, useState } from 'react';
 
 const images = [
   "./assets/corazon-dia.jpeg",
-  "../assets/exterior1.jpeg",
-  "assets/interior.jpeg",
+  "./assets/exterior1.jpeg",
+  "./assets/interior.jpeg",
 ];
 
 const Carousel: React.FC = () => {
