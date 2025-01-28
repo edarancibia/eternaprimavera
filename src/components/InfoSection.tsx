@@ -39,7 +39,7 @@ const InfoSection: React.FC = () => {
             Ubicado a orilla de carretera por ruta 215 km 13. Casamientos, cumpleaños, bautizos, paseos de colegios, etc.
           </p>
           <p className="text-lg font-semibold text-gray-800 mt-2">
-            PROMOCIÓN: $100.000 de lunes a miércoles de 12 a 8 PM hrs.
+            PROMOCIÓN: $150.000 de lunes a miércoles de 12 a 8 PM hrs.
           </p>
         </div>
 
